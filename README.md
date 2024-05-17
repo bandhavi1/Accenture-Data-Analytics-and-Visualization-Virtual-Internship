@@ -72,7 +72,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  **Present your powerpoint presentation to the client and deliver the insights of your analysis** 
 
  ## Task - 5
- ### DashBoard
+ ### Dashboard
  **I have developed a Tableau Dashboard to provide stakeholders with enhanced understanding and deeper insights**
  
  
